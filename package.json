@@ -1,0 +1,22 @@
+{
+  "name": "code-challange-week-one-phase-one",
+  "version": "1.0.0",
+  "description": "code -challange phase-one",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mosesochacha/code-challange-week-one-phase-one.git"
+  },
+  "author": "Moses Ochacha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mosesochacha/code-challange-week-one-phase-one/issues"
+  },
+  "homepage": "https://github.com/Mosesochacha/code-challange-week-one-phase-one#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
