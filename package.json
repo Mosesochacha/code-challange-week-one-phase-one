@@ -4,7 +4,8 @@
   "description": "code -challange phase-one",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start":"node index.js, node index2.js ,node index3.js"
   },
   "repository": {
     "type": "git",
