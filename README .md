@@ -13,11 +13,11 @@ Running the application is very straight forward. You can use the following step
 - Install required dependencies from npm
 
       npm install prompt-sync
-- Run the first file use
+Run the first file use:
       index.js
-- Run the second file by using 
+Run the second file by using :
       index2.js
-- Run the third file using 
+- Run the third file using :
      index3.js
 
       
